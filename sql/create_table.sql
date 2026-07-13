@@ -1,0 +1,20 @@
+USE fraud_detection;
+
+CREATE TABLE IF NOT EXISTS creditcard (
+    CustomerID INT PRIMARY KEY,
+    A1 DOUBLE,
+    A2 DOUBLE,
+    A3 DOUBLE,
+    A4 DOUBLE,
+    A5 DOUBLE,
+    A6 DOUBLE,
+    A7 DOUBLE,
+    A8 DOUBLE,
+    A9 DOUBLE,
+    A10 DOUBLE,
+    A11 DOUBLE,
+    A12 DOUBLE,
+    A13 DOUBLE,
+    A14 DOUBLE,
+    Class TINYINT
+);
