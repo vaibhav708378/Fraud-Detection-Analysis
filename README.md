@@ -247,14 +247,6 @@ or execute Python scripts if available.
 **Vaibhav Patil**
 
 - GitHub: https://github.com/vaibhav708378
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: www.linkedin.com/in/vaibhav708378
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-⭐ If you found this project useful, consider giving it a star on GitHub!
